@@ -1,0 +1,29 @@
+{
+  "format": "lvc-manifest-v1",
+  "project_id": "ed56d48e-c246-4a6c-ba4b-7c559d78cf97",
+  "name": "50.4k-TNT-Obsidian",
+  "sites": [
+    {
+      "id": "main",
+      "name": "50.4k-TNT-Obsidian",
+      "dimension": "minecraft:overworld",
+      "regions": [
+        {
+          "id": "50_4k-nachocs",
+          "name": "50.4k-NachoCS",
+          "min": [
+            -16,
+            0,
+            0
+          ],
+          "size": [
+            17,
+            13,
+            15
+          ]
+        }
+      ],
+      "hash_index": "indexes/main.lvcidx"
+    }
+  ]
+}
